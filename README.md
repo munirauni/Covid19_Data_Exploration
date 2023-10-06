@@ -1,6 +1,6 @@
 # COVID-19 DATA EXPLORATION
 
-The purpose of this project is to analyze COVID-19 dataset on deaths and vaccinations. The outcome of the analysis helps us to understand following key findings:
+The purpose of this project is to analyze COVID-19 dataset on infections and deaths. The outcome of the analysis helps us to understand following key findings:
 
 1. Total Cases vs Total Deaths
 2. Countries with highest infection rate compared to population
